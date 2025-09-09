@@ -1,0 +1,31 @@
+CAPSTONE PROJECT
+Machine Learning Model Predicting Hearing Loss in Newborn
+This project aims to build a machine learning model that can predict if a certain newborn will develop hearing loss based on different risk factors.
+
+Predictive Model:
+
+Logistic Regression Model
+Random Forest Classifier
+XGBoost Classifier
+The models to be used are CLASSIFICATION MODELS
+
+Dependent Variables
+
+Hyperbilirubinemia requiring transfusion
+Ventilation > 46 hours
+NICU admission > 48 hours
+Ototoxic medication
+Family history of permanent childhood hearing loss
+Craniofacial anomalies with deformed pinna or ear canal
+In-utero infections
+Features with syndromes.
+Independent Variable
+
+Hearing Loss
+The dataset will contain only 0 or 1
+
+1 = Presence | 0 = Absence
+
+Requirements
+
+Matplotlib Scipy Numpy Pandas
